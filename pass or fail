@@ -1,0 +1,24 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{
+	int t,a,b,c,x,y,res;
+	cin>>t;
+	while(t--)
+	{
+	    cin>>a>>b>>c;
+	    x=b*3;
+	    y=((a-b)*1);
+	    res=x-y;
+	    if(res<c)
+	    {
+	        cout<<"fail\n";
+	    }
+	    else
+	    {
+	        cout<<"pass\n";
+	    }
+	}
+	return 0;
+}
