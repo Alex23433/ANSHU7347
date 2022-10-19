@@ -1,6 +1,6 @@
 - 👋 Hi,I’m @ANSHU7347
 - 👀 I’m interested in Blockchain,Web Development And Competitive Programming
-- 🌱 I’m currently Pursuing  My Btech From ATKU
+- 🌱 I’m currently Persuing  My Btech From ATKU
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
